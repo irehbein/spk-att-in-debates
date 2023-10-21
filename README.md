@@ -3,8 +3,7 @@
 
 This repository contains the data and supplementary materials for the anonymous paper submission to LREC-COLING-2024:
 
-### Out of the mouths of MPs:
-### Speaker Attribution in Parliamentary Debates
+#### Out of the mouths of MPs: Speaker Attribution in Parliamentary Debates
 
 ### Content of this repository:
 
