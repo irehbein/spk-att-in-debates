@@ -1,0 +1,18 @@
+{
+	'learning_rate': 1.0e-03,
+  	'weight_decay': 1.0e-02,
+	'batch_size': 8,
+	'gradient_clip_val': 1.0,
+	'gradient_clip_algorithm': norm,
+	'max_steps': 500000,
+	'patience': 10,
+	'word_encoding_size': 512,
+	'word_encoding_dropout': 0.2,
+  	'predicate_encoding_size': 128,
+	'predicate_encoding_dropout': 0.5,
+  	'sense_encoding_size': 512,
+  	'sense_encoding_dropout': 0.5,
+  	'role_encoding_size': 512,
+  	'role_encoding_dropout': 0.2,
+}
+
